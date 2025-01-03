@@ -1,6 +1,3 @@
-Based on the available information, here's an enhanced `README.md` for the Game Management System project:
-
-```markdown
 # Game Management System
 
 The Game Management System (GMS) is a Python-based application designed to manage and organize games, track player scores, and maintain leaderboards.
@@ -103,14 +100,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or issues, please open an issue on this repository.
-
----
-
-*This `README.md` was generated to provide a comprehensive overview of the Game Management System project.*
-```
-
-This `README.md` provides a clear and structured overview of the project, including its features, installation instructions, usage guidelines, project structure, contribution guidelines, license information, and contact details. It follows best practices for writing effective README files, as outlined in various resources. 
-
-For a visual guide on creating useful README files, you might find the following video helpful:
-
- 
