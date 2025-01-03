@@ -30,7 +30,8 @@ class MemoryGameGUI:
         self.timer_seconds = 0
         self.timer_running = True
 
-        self.leaderboard_file = "leaderboard.json"
+        self.game_folder = os.path.dirname(os.path.abspath(__file__))
+        self.leaderboard_file = os.path.join(self.game_folder, "leaderboard.json")
         self.__load_leaderboard()
 
         self.__input_size()
